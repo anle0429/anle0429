@@ -1,6 +1,6 @@
 # Hi, I'm An Le 👋
 
-**I really want to do research**
+**Webster University**
 
 Computer Science student interested in machine learning, data systems, and practical software development.
 
