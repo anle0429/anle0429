@@ -1,4 +1,4 @@
-# Hi, I'm An Le (Huynh Thien An Le) 👋
+# Hi, I'm An Le (Huynh Thien An Le)
 
 **Webster University**
 
@@ -30,7 +30,6 @@ Computer Science student interested in machine learning, data systems, and pract
 - preparing for higher education opportunities
 
 ## Featured Projects
-- Coming soon
 
 ## Contact
 - 📫 Email: thienanlehuynh@gmail.com
