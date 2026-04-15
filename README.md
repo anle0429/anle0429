@@ -1,15 +1,8 @@
-# Hi, I'm An Le (Huynh Thien An Le)
-
-**Webster University**
-
-Computer Science student interested in machine learning, data systems, and practical software development.
+# Hi, I'm An Le 
 
 ## About Me
-- Computer Science focus in Machine Learning student
-- Interested in Machine Learning, Data Engineering, and applied AI
-- Preparing for internships and higher education
-- Building projects that combine software engineering with intelligent systems
-- I love using LLMs, I love to prompt and everything.
+- I'm passionate about ML, DL. However, I been procrastinating too much that I'm focusing on DE now. Better late than never, never give up on ML.
+- I love solving problems, it gives me a feeling that I cannot explain it myself, even though sometimes I'm the one who created it.
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/Python-111111?style=flat&logo=python)
@@ -21,17 +14,8 @@ Computer Science student interested in machine learning, data systems, and pract
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-111111?style=flat&logo=scikitlearn)
 ![Git](https://img.shields.io/badge/Git-111111?style=flat&logo=git)
 ![Linux](https://img.shields.io/badge/Linux-111111?style=flat&logo=linux)
-![Streamlit](https://img.shields.io/badge/Streamlit-111111?style=flat&logo=streamlit)
-
-## Currently Working On
-- preparing for internships
-- strengthening ML and data foundations
-- building practical technical projects
-- preparing for higher education opportunities
-
-## Featured Projects
 
 ## Contact
 - 📫 Email: thienanlehuynh@gmail.com
 - 💼 LinkedIn: linkedin.com/anle0429
-- 🌐 Portfolio: coming soon
+- 🌐 Portfolio: out of quota, def gonna buy google ai ultra fo sure
