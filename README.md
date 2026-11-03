@@ -2,6 +2,10 @@
 
 Computer Science & Mathematics student building with **machine learning**, **data engineering**, and **applied AI**.
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anle0429&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 ## Projects
 
 - [IoT Maintenance Platform](https://github.com/anle0429/iot-maintenance-platform) — predictive maintenance with streaming data and AI agents
