@@ -1,21 +1,63 @@
-# Hi, I'm An Le 
+<div align="center">
 
-## About Me
-- I'm passionate about ML, DL. However, I been procrastinating too much that I'm focusing on nothing now lol. Better late than never, never give up on ML.
-- I love solving problems, it gives me a feeling that I cannot explain it myself, even though sometimes I'm the one who created it.
+# An Le
 
-## Tech Stack
-![Python](https://img.shields.io/badge/Python-111111?style=flat&logo=python)
-![C++](https://img.shields.io/badge/C++-111111?style=flat&logo=c%2B%2B)
-![SQL](https://img.shields.io/badge/SQL-111111?style=flat&logo=postgresql)
-![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=flat&logo=pytorch)
-![Pandas](https://img.shields.io/badge/Pandas-111111?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-111111?style=flat&logo=numpy)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-111111?style=flat&logo=scikitlearn)
-![Git](https://img.shields.io/badge/Git-111111?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/Linux-111111?style=flat&logo=linux)
+### Machine Learning · Data Engineering · Applied AI
 
-## Contact
-- 📫 Email: anlehuynhthien@webster.edu / work.anle05@gmail.com
-- 💼 LinkedIn: linkedin.com/anle0429
-- 🌐 Portfolio: i will do it tho, I haven't done it yet because I think that I don't have any good projects to put on my portfolio
+<p>
+  <a href="https://github.com/anle0429"><img src="https://img.shields.io/badge/GitHub-anle0429-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/anle0429/"><img src="https://img.shields.io/badge/LinkedIn-anle0429-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:anlehuynhthien@webster.edu"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+</div>
+
+## About me
+
+I'm a Computer Science and Mathematics student based in St. Louis who enjoys turning messy, real-world problems into reliable software and useful ML systems.
+
+- Building at the intersection of **machine learning, data engineering, and AI agents**
+- Interested in **production-minded pipelines**, model serving, computer vision, and intelligent automation
+- Currently sharpening my skills through hands-on projects, hackathons, and open-source learning
+- I like difficult problems, thoughtful systems, and learning by building
+
+## Featured projects
+
+| Project | What it is |
+| --- | --- |
+| [**IoT Maintenance Platform**](https://github.com/anle0429/iot-maintenance-platform) | Predictive maintenance for industrial pumps with batch and streaming pipelines, model serving, and AI agents. |
+| [**ClosureCall**](https://github.com/anle0429/ClosureCall) | Hackathon prototype combining live weather and air-quality evidence, tool-using agents, decisions, notifications, and replay. |
+| [**SurgiPath**](https://github.com/anle0429/SurgiPath) | AI surgical training coach using YOLOv8 instrument detection and MediaPipe hand tracking. |
+| [**End2End Data Pipeline**](https://github.com/anle0429/End2End-Data-Pipeline) | Containerized near-real-time analytics with Kafka, ClickHouse, Airflow, and PySpark. |
+
+## Tech I use
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,sql,pytorch,sklearn,docker,linux,git,github,postgres,kafka" alt="Tech stack" />
+</p>
+
+**Focus areas:** Machine Learning · Deep Learning · Data Pipelines · Computer Vision · AI Agents · Model Serving
+
+## GitHub activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anle0429&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="An Le's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anle0429&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=anle0429&hide_border=true&theme=transparent" alt="GitHub streak" />
+</div>
+
+## Let's connect
+
+If you're interested in ML systems, data platforms, computer vision, or building something useful together, feel free to reach out.
+
+- **Email:** [anlehuynhthien@webster.edu](mailto:anlehuynhthien@webster.edu)
+- **LinkedIn:** [linkedin.com/in/anle0429](https://www.linkedin.com/in/anle0429/)
+
+<div align="center">
+
+### Build with curiosity. Ship with purpose.
+
+</div>
